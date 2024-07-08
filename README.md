@@ -19,7 +19,7 @@ This project involves retrieving, cleaning, and analyzing Airbnb data using Pyth
   
 - **Geospatial Libraries**: Utilized for geospatial data visualization and analysis.
 
-## install Libraries
+## Install Required Libraries
 
     pip install pandas
     pip install streamlit
