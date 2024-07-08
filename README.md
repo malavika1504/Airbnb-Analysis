@@ -7,6 +7,20 @@ The Airbnb Analysis project utilizes MongoDB Atlas and various data analysis too
 
 This project involves retrieving, cleaning, and analyzing Airbnb data using Python scripting and MongoDB Atlas. It includes developing a Streamlit web application for interactive geospatial visualizations and utilizing tools like Power BI or Tableau to create comprehensive dashboards.
 
+## Key Technologies Used
+
+- **Python**: Programming language used for scripting and data analysis.
+  
+- **MongoDB Atlas**: Cloud-based database platform for storing and managing Airbnb data securely.
+  
+- **Streamlit**: Open-source framework for building interactive web applications with Python.
+  
+- **Power BI or Tableau**: Business intelligence tools for creating interactive dashboards and visualizations.
+  
+- **Geospatial Libraries**: Utilized for geospatial data visualization and analysis.
+
+
+
 ## Objectives
 
 ### Establish MongoDB Connection and Data Retrieval
